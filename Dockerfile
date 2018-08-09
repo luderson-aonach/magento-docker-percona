@@ -1,6 +1,6 @@
 FROM percona:latest
 
-MAINTAINER Webjump Magento <dev@webjump.com.br>
+MAINTAINER Luderson Costa
 
 RUN apt-get update && \
     apt-get upgrade -y
